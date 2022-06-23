@@ -1,4 +1,4 @@
-# TwistedBytes Control Rig
+# TwistedBytes Control Rig (4.27)
 
 ![](_docs/logo.png)
 
@@ -8,9 +8,9 @@
 
 🛰 [Discord](https://discord.twistedbytes.net/)
 
-**TwistedBytes Control Rig** is a sample project for Unreal Engine 5 that aims to help in learning how to make animations and to rig characters using Unreal Engine's [Control Rig](https://docs.unrealengine.com/5.0/en-US/control-rig-in-unreal-engine/) plugin.
+**TwistedBytes Control Rig** is a sample project for Unreal Engine 4 that aims to help in learning how to make animations and to rig characters using Unreal Engine's [Control Rig](https://docs.unrealengine.com/5.0/en-US/control-rig-in-unreal-engine/) plugin.
 
-Using **TwistedBytes Control Rig** in _Sequencer_ will allow you to create game-ready animations completely in UE5.
+Using **TwistedBytes Control Rig** in _Sequencer_ will allow you to create game-ready animations completely in UE4.
 
 # Technical Details
 
